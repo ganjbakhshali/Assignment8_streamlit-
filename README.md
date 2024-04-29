@@ -16,9 +16,11 @@ This is a simple data science app built using Streamlit. It allows users to uplo
 2. Install the required dependencies:
 
     ``` bash 
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
+    ```
 
 3.  Run the Streamlit app:
 
     ``` bash
     streamlit run chart.py
+    ```
